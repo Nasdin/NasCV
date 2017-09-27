@@ -1,0 +1,33 @@
+{% if site.importantactivities %}
+<div id="coursesBubble" class="rounded_panel txt_lightgrey">
+    <div class="top-rounded-panel grey-bg">
+        <h1>Community involvement </h1>
+         <h5>My core goal in life has always been to set people free</h5>
+    </div>
+
+    <div class="content-rounded-panel">
+            <div>
+                    
+                <table class="table table-striped table-hover table-condensed">
+                    <thead>
+                        <tr>
+                            {% for activity in site.importantactivities %}
+                            <th><a style="cursor: pointer;">{{activity.Title}}</a></th>
+                            
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for description in activity %}
+                            <tr>
+                                <td><strong> {{description[0]}}</strong> :  {{description[1]}}  </td> 
+                            </tr>
+                            {% endfor %}
+                            {% endfor %}
+                    </tbody>
+                </table>
+                
+            </div>
+            <br>
+        </div>
+    </div>
+{% endif %}

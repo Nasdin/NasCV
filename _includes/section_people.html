@@ -1,0 +1,19 @@
+{% if site.people %}
+	<div id="blogBubble" class="rounded_panel txt_lightgrey">
+		<div class="top-rounded-panel grey-bg">
+			<h1>People whom I think are great</h1>
+		</div>
+		<div class="content-rounded-panel">
+			<div id="people">
+				{% for someone in site.people %}
+				<a href= "{{someone.website}}"targer="_blank" > {{someone.person}}</a> <br>
+				{{someone.title}}
+
+				{% endfor %}
+			</div>
+			<br>
+		</div>
+		
+	</div>
+{% endif %}
+

@@ -1,0 +1,40 @@
+{% if site.profile %}
+<div class="rounded_panel txt_lightgrey">
+    <div class="top-rounded-panel grey-bg">
+            
+        <h1>{{site.name}}</h1>
+            </div>
+    <div class="content-rounded-panel">
+        <div id="Profile">
+               <a href= "{{site.LinkedIn_Link}}"> <img src="{{site.profile.yourface}}" width="150" height="150" > </a>
+                {% if site.profile.age %}
+                <br> <h5>Age: {{site.profile.age }} </h5>
+                {% if site.profile.availability %}
+                <h5>{{site.profile.availability }} </h5>
+                {% endif %}
+                <h5>Singaporean Citizen</h5>
+                {% if site.profile.contact %}
+                 <b><h5>Email: {{site.profile.contact }} </h5> </b>
+               
+                
+                {% endif %}
+                
+                {% endif %}
+                {% if site.profile.goal %}
+                 <h4>{{site.profile.goal }} </h4>
+                
+                {% endif %}
+                {% if site.profile.somequote %}
+                <blockquote class="blockquote"><h5>{{site.profile.somequote }}  </h5></blockquote>
+                
+                {% endif %}
+                
+                <h4> <a href= http://code.nasrudinsalim.com> Check out the code zone</a>  </h4> 
+
+                
+                 
+            </a>
+        </div>
+    </div>
+</div>
+{% endif %}

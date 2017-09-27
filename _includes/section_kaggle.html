@@ -1,0 +1,35 @@
+{% if site.kaggle %}
+<div class="rounded_panel txt_lightgrey">
+    <div class="top-rounded-panel grey-bg">
+        <h1>Kaggle Flair</h1>
+    </div>
+    <div class="content-rounded-panel">
+        <div id="kagglescore">
+            <a target='_blank' href="{{site.kaggle.profile}}">
+                <img src="{{site.kaggle.picture}}" width="75" height="75"
+                alt="profile at Kaggle, Q&amp;A for professional and enthusiast Data Scientists" 
+                title="profile at Kaggle, Q&amp;A for professional and enthusiast Data Scientists">
+                
+                 <img src="https://www.kaggle.com/static/images/site-logo.png" width=50 >
+                 {%if site.kaggle.kagglerank %}
+                 <img src="{{site.kaggle.kagglerankpicture}}" width="50" height="50"   > <br>Rank: {{site.kaggle.kagglerank}}
+                
+                 {% endif %}
+                </a><br/> 
+                
+
+                 {% if site.kaggle.competitions %}
+                 <u><b><h4> Kaggle Competitions</h4></b></u>
+                 
+                   {% for competition in site.kaggle.competitions %}
+                   <span class="label-padded"> Competition: <a href="{{competition.link}}"> {{competition.title}}</a>  </span> &nbsp; 
+                   <span class="label-padded"> Rank: {{competition.rank}} </span> &nbsp;
+                   <br/> 
+                   
+                   {% endfor %}
+                   {% endif %}
+            
+        </div>
+    </div>
+</div>
+{% endif %}

@@ -1,0 +1,33 @@
+{% if site.selfeducation %}
+	<div id="coursesBubble" class="rounded_panel txt_lightgrey">
+		<div class="top-rounded-panel grey-bg">
+			<h1>Self Education </h1>
+			 <h5>I am very passionate on my self growth while committing to a healthy lifestyle of exercise and balanced diet</h5>
+		</div>
+
+		<div class="content-rounded-panel">
+				<div>
+						{% for provider in site.selfeducation %}
+					<table class="table table-striped table-hover table-condensed">
+						<h3> <a href="{{provider.profileurl}}"target="_blank">My {{provider.provider}} Profile</h3> </a>
+						<thead>
+							<tr>
+								<th><a style="cursor: pointer;">Title</a></th>
+								<th class="hidden-sm hidden-xs" ><a style="cursor: pointer;">Award <h5>(click to download)</h5></a></th>
+							</tr>
+						</thead>
+						<tbody>
+							{% for course in provider.courses %}
+								<tr>
+									<td><a href="{{course.link}}"target="_blank">{{course.title}}</a>  </td> 
+									<td class="hidden-sm hidden-xs" ><a href="{{course.cert}}"target="_blank">Certificate</a></td>
+								</tr>
+							{% endfor %}
+						</tbody>
+					</table>
+					{% endfor %}
+				</div>
+				<br>
+			</div>
+		</div>
+	{% endif %}
