@@ -287,9 +287,10 @@ selfeducation:
 
 #List of interesting Github repo/projects to include - optional
 github:
- - Nasdin/Trade-History-Generation-Under-EMF
+ - Nasdin/ReinforcementLearning-AtariGame
  - Nasdin/Deep-Neural-Networks-With-Stacked-Auto-Encoders-in-R
- - Nasdin/Simple-python-number-guess-game
+ - Nasdin/Simple-python-number-guess-game-With-AI-To-Play-It
+ - Nasdin/Trade-History-Generation-Under-EMF
  - Nasdin/Pokemon-Stay-Prototype
 
 #A bit important outside involvements
