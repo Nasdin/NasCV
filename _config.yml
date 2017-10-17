@@ -1,7 +1,7 @@
 # Site settings
 title: Nasrudin Bin Salim
 twitter_username: spionasrudin
-LinkedIn_Link: https://www.linkedin.com/in/nasrudin-salim-a82a4756/ 
+LinkedIn_Link: https://www.linkedin.com/in/nasrudin-salim/
 name: Nasrudin Salim
 baseurl: '/CV'
 
@@ -12,7 +12,7 @@ markdown: kramdown
 #Links that will appear in the navbar
 primarylinks:
  - title: LinkedIn
-   url: https://www.linkedin.com/in/nasrudin-salim-a82a4756/
+   url: https://www.linkedin.com/in/nasrudin-salim/
  - title: GitHub
    url: https://github.com/Nasdin/
  - title: Kaggle
@@ -27,14 +27,14 @@ primarylinks:
 profile:
   yourface: ./img/profile.jpeg
   goal: Striving to be a global expert in Data Science and Artificial Intelligence
-  somequote: I never admit defeat on not knowing or not being good enough.<br/>  I'll work twice longer and self-practice, borrow books and attend courses by my own. Nothing uncovered. <br/> 
+  somequote: I never admit defeat on not knowing or not being good enough.<br/>  I'll work twice longer and self-practice, borrow books and attend courses by my own. Nothing uncovered. <br/>
   age: 24
   availability: Available for hire and consultation
   contact: <a href="mailto:Nas@NasrudinSalim.com?Subject=I%20Want%20To%20Hire%20You" target="_top">Nas@NasrudinSalim.com</a></p>
-  resume: 
+  resume:
 
 #Any buzzword skills you want to include
-skillset1: 
+skillset1:
  - Python
  - C++
  - C
@@ -101,7 +101,7 @@ skillset4:
 people:
   - person: Linh Ha, fuulin.com
     website: http://fuulin.com
-    title: Creative Designer, Criteo. 
+    title: Creative Designer, Criteo.
 
 
 
@@ -149,7 +149,7 @@ roles:
    description: Started learning about the financial markets at 14. I'd borrow books and attend courses. I attempted to trade for 2 years, attempted competitions and won a competition. <br/> At 17, I started managing small funds, from low 4 figures to upper 4 figures, then 5 and eventually I managed 6 figure accounts by the time I started Chatoyance Capital Management. <br/> <br/> I was labelled a child prodigy and had offers from numerous companies and insurance companies to join them. Or to start teaching a course to adults much older than I was.
 
 #Accomplishments, Awards, References and Testimonials
-Accomplishment: 
+Accomplishment:
  - award: Module Prize in Stem Cell and Tissue Engineering
    description: Award to top student in cohort
  - award: Anugerah Khas Mendaki
@@ -188,7 +188,7 @@ Quote:
     Name: Dr Ricky Chua
     Title: Lecturer, President NTU MSE Alumni Association
     Quote: I feel that Nasrudin is extraordinarily bright and needs to be given the right team to bring out his social side.
-    Contact: Available upon request   
+    Contact: Available upon request
 
 
 
@@ -209,7 +209,7 @@ education:
  - level: Data Science Expert
    date: 2017 Nov
    subject: <a href= https://generalassemb.ly/education/data-science-immersive> Data Science Immersive Programme</a>, <br/> Sponsorship from IMDA, IMTalent Program <br/><br/> First locally and professionally trained Data Scientist batch in Singapore
-   link: https://generalassemb.ly/ 
+   link: https://generalassemb.ly/
    school: General Assembly
  - level: Bachelor(hons) of Engineering
    date: 2017 June  <br/><br/> (Left in Y3 to Pursue passion in programming and Data Science)
@@ -219,8 +219,8 @@ education:
  - level: Polytechnic Diploma
    date: 2014 May
    subject: Materials Science. <br/><br/>FYP in Thermal Interface Material – HDPE, copper compositeT<br/>hermally Conductive Polymer Composite For High Power Electronic Devices
-   link: http://www.rp.edu.sg 
-   school: Republic Polytechnic, Singapore 
+   link: http://www.rp.edu.sg
+   school: Republic Polytechnic, Singapore
 
 #This section is optional (as is the image link below), should come with a certificate.
 selfeducation:
@@ -245,10 +245,10 @@ selfeducation:
    - title: Statistical Thinking In Python Level 2
      link: https://www.datacamp.com/courses/statistical-thinking-in-python-part-2
      cert: ./cert/DataCamp/Statistical_Thinking_Python_2.pdf
-   
+
  - provider: StackSkills
    profileurl: https://stackskills.com
-   courses: 
+   courses:
    - title: "The Complete Python Course: Beginner to Advanced"
      link: https://stackskills.com/p/python-complete
      cert:
@@ -269,7 +269,7 @@ selfeducation:
      cert:
    - title: "Git Complete Mastery with GitHub : 100% Hands-on Git Guide"
      link: https://stackskills.com/p/git-complete-mastery-github-100-hands-on-2016-git-guide
-     cert: 
+     cert:
    - title: Learn Angular 2 from Beginner to Advanced
      link: https://stackskills.com/p/learn-angular-2-from-beginner-to-advanced
      cert:
@@ -308,7 +308,7 @@ importantactivities:
 
 #Other less important Involvements
 notimportantactivities:
- - Title: Listed in World Genius Directory 
+ - Title: Listed in World Genius Directory
    link: http://psiq.org/
    cert: ./cert/HighIQCerts/WGDNASRUDINSALIM.jpg
 
@@ -316,7 +316,7 @@ notimportantactivities:
    link: https://www.ihiqs.org/
    cert: ./cert/HighIQCerts/IHIQS.jpg
 
- - Title: Mensa ( Top 1% ) 
+ - Title: Mensa ( Top 1% )
    link: http://www.mensa.org
    cert: ./cert/HighIQCerts/Mensaletter.png
 
@@ -335,7 +335,7 @@ notimportantactivities:
  - Title: UberIQ ( Top 0.13% )
    link: http://www.uberiq.org/
    cert: ./cert/HighIQCerts/UberIQ.jpg
-   
+
 #Kaggle Flair
 kaggle:
  profile: https://www.kaggle.com/nasdin
@@ -368,5 +368,5 @@ kaggle:
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 #additionalinfo: |
-   
+
 #theme: jekyll-theme-minimal
