@@ -3,7 +3,7 @@ title: Nasrudin Bin Salim
 twitter_username: spionasrudin
 LinkedIn_Link: https://www.linkedin.com/in/nasrudin-salim/
 name: Nasrudin Salim
-baseurl: '/CV'
+baseurl: ''
 
 # Build settings
 markdown: kramdown
@@ -17,8 +17,6 @@ primarylinks:
    url: https://github.com/Nasdin/
  - title: Kaggle
    url: https://www.kaggle.com/nasdin
- - title: Code Zone
-   url: http://Code.NasrudinSalim.com
  - title: Blog
    url: http://Blog.NasrudinSalim.com
  - title: <strong>Contact</strong>
@@ -27,9 +25,9 @@ primarylinks:
 profile:
   yourface: ./img/profile.jpeg
   goal: Striving to be a global expert in Data Science and Artificial Intelligence
-  somequote: I never admit defeat on not knowing or not being good enough.<br/>  I'll work twice longer and self-practice, borrow books and attend courses by my own. Nothing uncovered. <br/>
+  somequote: I am always striving to improve myself one way or another, stemming from an inner insecurity about never knowing enough
   age: 24
-  availability: Available for hire and consultation
+  availability: I'm available and on the hunt for new opportunities for growth!
   contact: <a href="mailto:Nas@NasrudinSalim.com?Subject=I%20Want%20To%20Hire%20You" target="_top">Nas@NasrudinSalim.com</a></p>
   resume:
 
@@ -37,119 +35,84 @@ profile:
 skillset1:
  - Python
  - C++
- - C
  - VB/VBA
  - MQL5
- - Git
- - MS Excel Mastery
- - NOSQL
- - Non Relational Databases
- - SQL, SQLite, PostgreSQl
- - Hadoop
+ - Databases
  - AWS
- - SAS
- - Stata
- - FIXAPI/ API
 skillset2:
  - Machine Learning
  - Artificial Intelligence (AI)
  - Data Science
- - AI Model Stacking/Pipelines
  - Big Data
  - Algorithms
- - Predictive Modeling
- - LSTM
- - Time Series Forecasting
- - Neural Networks
- - anomaly detection
- - k-means, K-Folds CV
- - A/B Test
- - DBSCAN
- - KNN
- - Bayesian Networks
- - Clustering
- - Random Forests
- - Sentiment Analysis
- - Support Vector Machines(SVM)
- - Natural Language Processing
- - Unsupervised Machine Learning
- - Supervised Machine Learning
- - Reinforcement Learning
  - Deep Learning
- - Bayesian Modeling/Analysis
+ - Bayesian Modelling and Probabilistic models
+ - Reinforcement Learning
 skillset3:
- - Fintech
- - Financial Markets
+ - Financial Markets Trading
  - Quantitative Hedge Fund
  - Portfolio Management
- - Financial Trading
- - Financial Technical Analysis
- - Financial Harmonic Analysis
- - Eliott Wave Theory
- - Order-Flow Analysis
- - MetaTrader4
- - Metatrader5
- - Risk Management
 skillset4:
  - Hadoop
- - SPARK
- - CRM
+ - Spark
+ - Git & Docker
  - Startups
- - SalesForce
 
-#List of people to mention
-people:
-  - person: Linh Ha, fuulin.com
-    website: http://fuulin.com
-    title: Creative Designer, Criteo.
+##List of people to mention
+#people:
+#  - person: Linh Ha, fuulin.com
+#    website: http://fuulin.com
+#    title: Creative Designer, Criteo.
 
 
 
 #Work experience is required
 roles:
- - title: COO & <br/> Co-Founder <br/><br/> & Data Scientist roles
+ - title: Lead Data Scientist <br> <br> Co-Founder & COO
    start: 2014 May
    end: Ongoing
-   employer: <a href="https://www.Chatoyance.org" target='_blank'>Chatoyance Capital Management</a> <br/> <br/> Singapore &  <br/><br/> United States, Boston.
-   description: Chatoyance Capital Management(CCM) is a funded startup offering Machine Learning and AI models and solutions for analyzing the financial markets or for direct API/attachment to funds.  <br/> CCM also provides a P2P collective investment application where investors invest as a group, increasing their ROI without proportionately increasing risk. <br/><br/>      <b> Roles</b> <br>Proficient with financial trading platforms e.g FIX-API, MT4, MT5, TradingView, NinjaTrader, CTrade and many broker-specific proprietary charting software.<br/> Machine Learning and AI application through C++, Python, Hadoop, AWS, Mql5 cloud computing. Also perform other tasks in VBA. <br/> <br/> Experienced in Business Management and capital raising from investors <br/>Have 1500 + connections in LinkedIn and highly endorsed. Have connections, calls and meetings with industry COOs, Directors and portfolio managers. <br/>Increased company AUM by 250% within 1 year of employment. Secures and deals numerous clients, partners, and investors.
- - title: CIO/CFO (Remote) <br/><br/> & Data Scientist roles
+   employer: <a href="https://www.Chatoyance.org" target='_blank'>Chatoyance Capital Management</a> <br/> <br/> Singapore &  <br/> United States, Boston.
+   description: Deep fintech startup providing A.I. and machine learning tools to augment/replace over a fund or for everyday investors to independently match up in competency against entire funds or prop firms.<br><br>Chatoyance Zeus Reinforcement Learning AI, self-generates trading rules & strategies with PCL built with Python & Tensorflow.<br><br>Chatoyance Trading Group - Group Master-Master copier service with UI/UX, stats and user database with web interface, made with mql4 and Django.<br><br>Time-Series prediction of market trend and price direction using LSTMs, gradient boosting and prophet on Python. Served as analytics subscription product to traders & funds.<br><br>Risk AI - Obtain optimum risk strategy and each risk per trade using volatility, unsupervised learning and predicted trade outcome.<br><br>Sentiment analysis - Using NLP on twitter, bloomberg and forex calendar API, web-scraping to determine sentiment.
+
+ - title: Data Scientist <br><br> CIO
    start: 2017 Feb
-   end: Ongoing
+   end: 2018 Jan
    employer: <a href="http://www.liquiditymagnate.com" target='_blank'>Liquidity Magnate</a>,<br/> <a href="http://wanchatdotcom.com/" target='_blank'>WanChat</a>,<br/> <a href="http://vip-queue.com" target='_blank' >VIPQueue</a>,<br/><a href="https://eventpenguins.com" target='_blank' >Event Penguins</a> <br/> <br/> Malaysia, Shah Alam
-   description: As of 2017 Sept, working in a remote position as am unavailable to move to Malaysia. <br>Initially worked with algorithmic and quant methods, then transition the company into AI and Machine learning. <br/> I've incorporated from OpenAI's Gym, reinforcement learning, deep learning with neural networks, to unsupervised learning <br/><br/>These 4 companies are staffed with about 40 people in Malaysia working as one, the core management team is from Liquidity Magnate overseeing their progress, financials and funding. <br/> <br/> Liqudity Magnate is a startup offering quant-algorithmic and investment solutions. LM offers a fixed return product to its customers. <br/> I am involved in the process by creating the necessary algorithms with machine learning models to hedge against the markets as well as automaticaly diversifying risks. <br/><br/>VIPQueue is startup for a restaurant ordering mobile app which allows users to order food at a restaurant or cafe in Malaysia while they are travelling to it, skipping the queue and waiting time to receive food. <br/><br/>EventPenguins is a startup for an event management solution which helps to track and manage the financial data, budgets, fees and sales of the event apart from hosting the event<br/><br/>WanChat is a startup for a messaging mobile app which allows customers to make purchases and financial transactions between each other, consisting of a wallet which is hedged against inflation. The app is tailored for the SEA region.<br/><br/>
+   description: Trained team of manual traders on trading strategies, technical, fundamental, sentiment, wave theory analysis.<br><br>Built indicators for trading team, volume tick analysis and spread analysis indicators on MQL4.<br><br>Provided quant algorithmic strategy, rule-based trading with Neural nets & technical analysis, supervised learning with an online-learning component, updates probability tables of binary market patterns and trade decisions for each market move and trade closed, on MQL5.<br><br>Created a Risk Management and countertrade supervised learning AI system using machine predicted trade outcomes to automatically hedge, providing stable returns while providing constant volume rebates without the danger of martingale.<br><br>Supported on product and project management of dev teams surrounding EventPenguins, VipQueue & WanChat.<br><br>Achieved investment banking license for the region & regulation & licensed to work as a fintech provider cum liquidity provider<br><br>Responsible for the backbone of tech operations, provide a fixed 40% net return annually for investors with data science informed decisions, manual & quant trading and revenue streams from fintech products.
+
  - title: Software Engineer
    start: 2016 Sep
    end: 2017 Sep
-   employer: SkillTec, UTETech <br/> Singapore <br/> <br/>Malaysia, Johor Bahru
-   description: A traditional company specializing in engineering. <br/><br/> Programmed some of the systems from ground up. Built the database. Fixed any loopholes and security flaws. Implemented an intranet system. Programmed some automated software routines for autonomous machinery production.
- - title: Military Service, <br/> Batallion IT Expert
+   employer: SkillTec Pte. Ltd, UTETech Sdn. Bhd. <br><br/> Singapore
+   description: Automated tasks and routines with VBA & C++ and created internal software products for engineers and clerks.<br><br>Planned and created software integrating with google spreadsheet API to create user-friendly relational databases.<br><br>Built an internal project management and tracking software to synchronize workflow with a simple web UI for input and overview.
+
+ - title: Batallion IT Expert <br><br> Military Service
    start: 2014 Sep
    end: 2016 Sep
    employer: Singapore Armed Forces , <br/> <br/> Singapore
-   description: Different military experience. Mastered a few books. Fortunate to hone software abilities to work on VBA projects at the company - batallion then formation level, with advanced excel, VBA and Access.  <br/> After Basic combat training, given an administrative role handling HR.<br/> Afterwards, I was moved out and sent to work with project officers on military projects. <br/><br/> I worked on confidential military projects to augment, optimize and plan new formations, divisions as well as create generators in VBA for manpower optimization and work schedules. Automated reports which had boiled days long task into minutes.
+   description: An actual title and position conferred to me.<br><br>Worked on VBA projects at the company - batallion then formation level, with advanced excel, VBA and Access.  <br/> After Basic combat training, given an administrative role handling HR.<br/> Afterwards, I was moved out and sent to work with project officers on military projects. <br/><br/> I worked on confidential military projects to augment, optimize and plan new formations, divisions as well as create generators in VBA for manpower optimization and work schedules. Automated reports which had boiled days long task into minutes.
  - title: Consultant (Freelance)
    start: 2011 Jan
-   end: Ongoing
+   end: 2014 Sep
    employer: Jerick Technologies<br/>Jovan Technologies<br/>Arnet Bernard Investment Group LLC <br/>Golden Zone Trading LLC<br/><br/> Singapore <br/> Indonesia <br/> United States
-   description: Enjoys solving problems, first opportunity came at 17 through a contact who found out I could program their system for a low price <br/> Since, I had the opportunity with many companies to work with them from excel, VBA to C and Python. <br/><br/>Consulted on an ad-hoc or informal basis to provide consultation to solve problems. <br/> Worked with an international team overseas in a cross-culture environment <br/> Program a software and implemented a feature which boosted company efficiency by 30% by synergizing workflow across departments and ranks.
+   description: At 17, headhunted & consulted by managers in Singapore,  sent on paid overseas trips to Indonesia. Provided full satisfactory deliverables, code & presentation within a week, on VBA,  Excel & Google API. Solutions still used to this day.<br><br>Worked in cross-culture environment overseas in multiple companies as a consultant<br><br>Provided winning solutions to financial education trading companies which boosted customer growth by 30%, automated report & portfolio tracking creation. Client companies converted to recurring customers.
+
  - title: Analyst (Intern)
    start: 2013 Sep
    end: 2014 Feb
    employer: ST Kinetics , Singapore<br/><br/> Republic Polytechnic Research Branch.
-   description: Work on sample gathering and scraping. Later analyzed samples with microsoft Excel, Pivot Tables and a proprietary company software. <br/> Automated the process with simple excel VBA loops and advanced excel functions. Created SOP which was later adopted by department.
- - title: Survey Interviewer (Part-Time)
-   start: 2012 Aug
-   end: 2012 Dec
-   employer: SIM University. <br/> <br/> Singapore
-   description: Working with People's Association, Singapore. Going out to the public and houses to conduct surveys and gather data for analysts.
+   description: Data Scraping and analysis. Analyzed samples with Excel VBA, Pivot Tables and a proprietary company software. <br> <br/> Automated the process with simple excel VBA loops and advanced excel functions. Created SOP which was later adopted by department.
  - title: Proprietary Trader
    start: 2011 Aug
    end: 2014 May
    employer: Self-Employed
-   description: Started learning about the financial markets at 14. I'd borrow books and attend courses. I attempted to trade for 2 years, attempted competitions and won a competition. <br/> At 17, I started managing small funds, from low 4 figures to upper 4 figures, then 5 and eventually I managed 6 figure accounts by the time I started Chatoyance Capital Management. <br/> <br/> I was labelled a child prodigy and had offers from numerous companies and insurance companies to join them. Or to start teaching a course to adults much older than I was.
+   description: Accumulated more than 10,000 hours of on-screen chart analyzing time. Started and am a philomath since 14 years old.<br><br>At 17, have conducted classes to teach financial trading to adults with personal mentorship on technical and wave analysis.<br><br>At 18, traded & managed small funds of 4 figures & 5 figures for clients before founding & working for CCM & LM
+
 
 #Accomplishments, Awards, References and Testimonials
 Accomplishment:
+ - award: Top Performer of Data Science Immersive Professional Course
+   description: Was the top performing data scientist amongst professionals and managers in General Assembly's Data Science full-time immersive programme. <br><br> Presented my work to minister assoc prof Dr. Yaacob Ibrahim.
  - award: Module Prize in Stem Cell and Tissue Engineering
    description: Award to top student in cohort
  - award: Anugerah Khas Mendaki
@@ -206,7 +169,7 @@ literalLanguages:
 
 #Education is required
 education:
- - level: Data Science Expert
+ - level: Data Science Immersive
    date: 2017 Nov
    subject: <a href= https://generalassemb.ly/education/data-science-immersive> Data Science Immersive Programme</a>, <br/> Sponsorship from IMDA, IMTalent Program <br/><br/> First locally and professionally trained Data Scientist batch in Singapore
    link: https://generalassemb.ly/
@@ -224,6 +187,27 @@ education:
 
 #This section is optional (as is the image link below), should come with a certificate.
 selfeducation:
+ - provider: Coursera
+   profileurl: https://www.coursera.org/user/fa78571af5e38932c8e2ce196bb3e0fc
+   courses:
+   - title: Deep Learning Specialisation
+     link: https://www.coursera.org/specializations/deep-learning
+     cert: https://www.coursera.org/specializations/deep-learning
+   - title: Neural Networks & Deep Learning ( WIP )
+     link: https://www.coursera.org/learn/neural-networks-deep-learning
+     cert:
+   - title: Improving Deep Neural Networks (WIP)
+     link: https://www.coursera.org/learn/deep-neural-network
+     cert:
+   - title: Structuring Machine Learning Projects (WIP)
+     link: https://www.coursera.org/learn/machine-learning-projects
+     cert:
+   - title: Convolutional Neural Networks (WIP)
+     link: https://www.coursera.org/learn/convolutional-neural-networks
+     cert:
+   - title: NLP Sequence Models
+     link: https://www.coursera.org/learn/nlp-sequence-models
+     cert:
  - provider: DataCamp
    profileurl: https://www.datacamp.com/profile/nasrudinsalimsuden
    courses:
@@ -286,12 +270,12 @@ selfeducation:
 
 
 #List of interesting Github repo/projects to include - optional
-github:
- - Nasdin/ReinforcementLearning-AtariGame
- - Nasdin/Deep-Neural-Networks-With-Stacked-Auto-Encoders-in-R
- - Nasdin/Simple-python-number-guess-game-With-AI-To-Play-It
- - Nasdin/Trade-History-Generation-Under-EMF
- - Nasdin/Pokemon-Stay-Prototype
+#github:
+# - Nasdin/ReinforcementLearning-AtariGame
+# - Nasdin/Deep-Neural-Networks-With-Stacked-Auto-Encoders-in-R
+# - Nasdin/Simple-python-number-guess-game-With-AI-To-Play-It
+# - Nasdin/Trade-History-Generation-Under-EMF
+# - Nasdin/Pokemon-Stay-Prototype
 
 #A bit important outside involvements
 importantactivities:
@@ -337,15 +321,15 @@ notimportantactivities:
    cert: ./cert/HighIQCerts/UberIQ.jpg
 
 #Kaggle Flair
-kaggle:
- profile: https://www.kaggle.com/nasdin
- picture: https://kaggle2.blob.core.windows.net/avatars/images/1248604-kg.jpg
- kagglerankpicture: ./img/kagglerank.png
- kagglerank: Contributor
- competitions:
-    - title: Titanic Prediction
-      link: https://www.kaggle.com/c/titanic
-      rank: Top 1%, out of 8300
+#kaggle:
+# profile: https://www.kaggle.com/nasdin
+# picture: https://kaggle2.blob.core.windows.net/avatars/images/1248604-kg.jpg
+# kagglerankpicture: ./img/kagglerank.png
+# kagglerank: Contributor
+# competitions:
+#    - title: Titanic Prediction
+#      link: https://www.kaggle.com/c/titanic
+#      rank: Top 1%, out of 8300
 #    - title:
 #      link:
 #      rank:
