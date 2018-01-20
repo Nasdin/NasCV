@@ -26,7 +26,7 @@ profile:
   yourface: ./img/profile.jpeg
   goal: Striving to be a global expert in Data Science and Artificial Intelligence
   somequote: I am always striving to improve myself one way or another, stemming from an inner insecurity about never knowing enough
-  age: 24
+#  age: 24
   availability: I'm available and on the hunt for new opportunities for growth!
   contact: <a href="mailto:Nas@NasrudinSalim.com?Subject=I%20Want%20To%20Hire%20You" target="_top">Nas@NasrudinSalim.com</a></p>
   resume:
@@ -190,10 +190,10 @@ selfeducation:
  - provider: Coursera
    profileurl: https://www.coursera.org/user/fa78571af5e38932c8e2ce196bb3e0fc
    courses:
-   - title: Deep Learning Specialisation
+   - title: Deep Learning Specialisation (WIP)
      link: https://www.coursera.org/specializations/deep-learning
      cert: https://www.coursera.org/specializations/deep-learning
-   - title: Neural Networks & Deep Learning ( WIP )
+   - title: Neural Networks & Deep Learning (WIP )
      link: https://www.coursera.org/learn/neural-networks-deep-learning
      cert:
    - title: Improving Deep Neural Networks (WIP)
@@ -205,7 +205,7 @@ selfeducation:
    - title: Convolutional Neural Networks (WIP)
      link: https://www.coursera.org/learn/convolutional-neural-networks
      cert:
-   - title: NLP Sequence Models
+   - title: NLP Sequence Models (WIP)
      link: https://www.coursera.org/learn/nlp-sequence-models
      cert:
  - provider: DataCamp
