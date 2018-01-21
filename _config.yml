@@ -270,12 +270,17 @@ selfeducation:
 
 
 #List of interesting Github repo/projects to include - optional
-#github:
-# - Nasdin/ReinforcementLearning-AtariGame
-# - Nasdin/Deep-Neural-Networks-With-Stacked-Auto-Encoders-in-R
-# - Nasdin/Simple-python-number-guess-game-With-AI-To-Play-It
-# - Nasdin/Trade-History-Generation-Under-EMF
-# - Nasdin/Pokemon-Stay-Prototype
+github:
+ - Nasdin/ReinforcementLearning-AtariGame
+ - Nasdin/Burning-Cars-ImageRecognition-realtime
+ - Nasdin/Property-Arbitrage-Prediction-Strategy
+ - Nasdin/Predicting-Salaries-Indeed.com-AutoML
+ - Nasdin/Predicting-Mosquito-Hotspots
+ - Nasdin/Drone-Strike-Visualization
+ - Nasdin/kaggle-competitions-nasdin
+ - ASAAI/speech2text
+ - Nasdin/AISaturdayTutorials
+ - Nasdin/Stacked-Autoencoders-Financial-Trading
 
 #A bit important outside involvements
 importantactivities:
