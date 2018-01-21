@@ -58,12 +58,23 @@ skillset4:
  - Git & Docker
  - Startups
 
-##List of people to mention
-#people:
-#  - person: Linh Ha, fuulin.com
-#    website: http://fuulin.com
-#    title: Creative Designer, Criteo.
-
+#List of people to mention
+people:
+  - person: Linh Ha, fuulin.com
+    website: http://fuulin.com
+    title: Creative Designer, Criteo.
+  - person: Melvin Perera
+    website: http://melvinperera.github.io/
+    title: Data Scientist, Taiger
+  - person: Daniel Shea
+    website: https://www.linkedin.com/in/dan-shea-9106ba31/
+    title: Software Engineer, HP
+  - person: Shang Ji
+    website: https://www.linkedin.com/in/ji-shang-7909b273/
+    title: Consultant, CapGemini
+  - person: Kelvin Ang
+    website: https://www.linkedin.com/in/kelvin-ang-63804112/
+    title: A-Vice-President, DBS Bank
 
 
 #Work experience is required
@@ -90,7 +101,7 @@ roles:
    start: 2014 Sep
    end: 2016 Sep
    employer: Singapore Armed Forces , <br/> <br/> Singapore
-   description: Title and position conferred to me.<br><br>Worked on VBA projects at the company, batallion and formation level. Created macros and analysis with excel, VBA and Access. <br><br> Worked with project officers on confidential military projects. <br/><br/> I worked on confidential military projects to augment, optimize and plan new formations, divisions as well as create generators in VBA for manpower optimization and work schedules. Automated reports condensed days long task into minutes.
+   description: Worked on VBA projects at the company, batallion and formation level. Created macros and analysis with excel, VBA and Access. <br><br> Worked on confidential military projects with regular full-time military officers to optimize and plan new formations, divisions as well as create generators in VBA for manpower optimization and work schedules. <br> Macro Automated reports condensed days long task into minutes.
  - title: Consultant (Freelance)
    start: 2011 Jan
    end: 2014 Sep
@@ -124,7 +135,7 @@ Accomplishment:
 
 References:
  - Human:
-    Name: Daniel Shea
+    Name: Dan B. Shea
     Title: CEO & Founder
     Company: Chatoyance Capital Management Pte. Ltd.
     Contact: Dshea@Chatoyance.org
