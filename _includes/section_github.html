@@ -1,7 +1,11 @@
 {% if site.github %}
 	<div class="rounded_panel txt_lightgrey">
 		<div class="top-rounded-panel grey-bg">
-			<h1>My Github</h1>
+			{% for title in site.primarylinks %}
+			 {% if title.title == 'GitHub' %}
+			<h1><a href="{{title.url}}"> My Github</a></h1>
+			{% endif %}
+			{% endfor %}
 		</div>
 		<div class="content-rounded-panel" style="overflow: hidden;">
 			<div>
