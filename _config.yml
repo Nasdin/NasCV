@@ -122,7 +122,7 @@ roles:
 
 #Accomplishments, Awards, References and Testimonials
 Accomplishment:
- - award: Top Performer of Data Science Immersive Professional Course
+ - award: Top Performer of Data Science full-time Immersive Professional Course
    description: Was the top performing data scientist amongst professionals and managers in General Assembly's Data Science full-time immersive programme. <br><br> Presented my work to minister assoc prof Dr. Yaacob Ibrahim.
  - award: Module Prize in Stem Cell and Tissue Engineering
    description: Award to top student in cohort
@@ -182,7 +182,7 @@ literalLanguages:
 education:
  - level: Data Science Immersive
    date: 2017 Nov
-   subject: <a href= https://generalassemb.ly/education/data-science-immersive> Data Science Immersive Programme</a>, <br/> Sponsorship from IMDA, IMTalent Program <br/><br/> First locally and professionally trained Data Scientist batch in Singapore
+   subject: <a href= https://generalassemb.ly/education/data-science-immersive> Data Science Immersive Full-time 12 100-hour-week Programme</a>, <br/> Sponsorship from IMDA, IMTalent Program <br/><br/> First locally and professionally trained Data Scientist batch in Singapore
    link: https://generalassemb.ly/
    school: General Assembly
  - level: Bachelor(hons) of Engineering
