@@ -9,6 +9,7 @@
                <a href= "{{site.LinkedIn_Link}}"> <img src="{{site.profile.yourface}}" width="150" height="150" > </a>
                 {% if site.profile.age %}
                 <br> <h5>Age: {{site.profile.age }} </h5>
+                {% endif %}
                 {% if site.profile.availability %}
                 <h5>{{site.profile.availability }} </h5>
                 {% endif %}
@@ -19,7 +20,7 @@
                 
                 {% endif %}
                 
-                {% endif %}
+
                 {% if site.profile.goal %}
                  <h4>{{site.profile.goal }} </h4>
                 
