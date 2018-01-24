@@ -283,7 +283,7 @@ selfeducation:
 #List of interesting Github repo/projects to include - optional
 github:
  - Nasdin/ReinforcementLearning-AtariGame
- - Nasdin/Burning-Cars-ImageRecognition-realtime
+ - Nasdin/VideoRecognition-realtime-autotrainer-alerts
  - Nasdin/Property-Arbitrage-Prediction-Strategy
  - Nasdin/Predicting-Salaries-Indeed.com-AutoML
  - Nasdin/Predicting-Mosquito-Hotspots
